@@ -17,7 +17,7 @@ See also : CASCsimulatioin
 
 Author : Li GUO, Yubo TAO
 
-Submitted : Thu, June 14 2018 by Li GUO
+Submitted : Fri, June 15 2018 by Li GUO
 
 Datafile : portfolio_data.RData
 
