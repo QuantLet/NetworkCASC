@@ -15,7 +15,7 @@ Keywords : Dynamic network, community detection, covariate assisted spectral clu
 
 Author : Li GUO, Yubo TAO
 
-Submitted : Thu, June 14 2018 by Li GUO
+Submitted : Fri, June 15 2018 by Li GUO
 
 Datafile : 
 
