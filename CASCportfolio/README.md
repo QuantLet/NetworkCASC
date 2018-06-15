@@ -13,6 +13,8 @@ Description : 'Produces plots of cumulative portfolio returns using contrarian s
 
 Keywords : Portfolio, Cryptocurrency, return predictability, dynamic network, community detection, centrality
 
+See also : CASCsimulatioin
+
 Author : Li GUO, Yubo TAO
 
 Submitted : Thu, June 14 2018 by Li GUO
