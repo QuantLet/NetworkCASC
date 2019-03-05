@@ -1,4 +1,4 @@
-Name of QuantLet :  'CASC_portfolio'
+Name of QuantLet :  'CASC_CrossPortfolio'
 Published in:       'A Dynamic Network Perspective on the Latent Group Structure of Cryptocurrencies'
 Description :       'Produces plots of cumulative portfolio returns using contrarian strategy for Cryptocurrencies'
 Keywords :          'Portfolio, Cryptocurrency, return predictability, dynamic network, community detection, centrality'
