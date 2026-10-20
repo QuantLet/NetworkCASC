@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: CASC_Sim_UdrtSwcMem
 
-Published in: A       'Dynamic Network Perspective on the Latent Group Structure of Cryptocurrencies
+Published in: A       'Dynamic Network Perspective on the Latent Group Structure of Cryptocurrencies'
 
 Description: Produces simulation plots of misclustering rate under various model specifications
 
